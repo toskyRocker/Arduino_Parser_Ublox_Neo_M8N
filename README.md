@@ -14,7 +14,7 @@ Some of the obtained info:
  - speed, course, knots
  - speed_age, course_age, knots_age
  - satellite: prn, elevation, azimuth, snr
- - 
+ 
 
 No virtual Serial (SoftwareSerial) is required since I use Serial1 on the Atmega32u4
  
