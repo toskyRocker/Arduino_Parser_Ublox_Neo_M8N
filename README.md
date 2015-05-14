@@ -24,4 +24,4 @@ Parsed strings:
  
 ----- The project includes also the txt file describing the right M8N configuration for multirotors -----
 
-You can flash the txt configuration file using U-Center
+You can flash the txt configuration file on the M8N using U-Center
